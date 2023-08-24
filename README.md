@@ -4,7 +4,7 @@ Welcome to the repository for the manuscript titled "Exploring Dysregulation of 
 
 ![cancer_cell_2.svg](https://github.com/raimondilab/gpcrsignalingaxes/blob/main/cancer_cell_2.svg)
 
-Repository Contents
+## Repository Contents
 
 data/: This directory contains the relevant datasets used in the study.
 
