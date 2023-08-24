@@ -82,7 +82,7 @@ Output:
 
 Individual CSV output files for each cancer type (e.g., 'Bile duct.csv', 'Adrenal gland.csv', etc.): These files contain the results of the survival analysis for each receptor-ligand (or receptor-enzyme) pair, including hazard ratios, p-values, confidence intervals, and other statistics. Each output file contains rows representing different pairs and their analysis results.
 
-*survival_subtypes.R*: This script performs the same operations as the earlier script but for the subtypes. The input files for this script are:
+*4. survival_subtypes.R*: This script performs the same operations as the earlier script but for the subtypes. The input files for this script are:
 
 Receptor-Ligand or Receptor-Enzyme Pairs CSV File:
 
