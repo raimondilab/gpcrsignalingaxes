@@ -1,0 +1,291 @@
+Recep,Ligand,Criterion,string_score
+HTR1A,DDC,Ligand Producing,669
+HTR1B,DDC,Ligand Producing,502
+HTR1D,DDC,Ligand Producing,350
+HTR1E,DDC,Ligand Producing,202
+HTR1F,DDC,Ligand Producing,267
+HTR2A,DDC,Ligand Producing,419
+HTR2A,PON2,Ligand Producing,232
+HTR2B,DDC,Ligand Producing,340
+HTR2C,DDC,Ligand Producing,352
+HTR4,DDC,Ligand Producing,187
+HTR5A,DDC,Ligand Producing,297
+HTR7,DDC,Ligand Producing,477
+GPR143,TH,Ligand Producing,157
+GPR143,DDC,Ligand Producing,233
+GPR119,NAAA,Ligand Producing,586
+GPR119,NAPEPLD,Ligand Producing,677
+GPR119,GDE1,Ligand Producing,346
+GPR18,ALOX12,Ligand Producing,169
+GPR55,ABHD12,Ligand Producing,607
+GPR55,MGLL,Ligand Producing,791
+GPR55,ABHD6,Ligand Producing,635
+GPR55,NAAA,Ligand Producing,647
+GPR55,NAPEPLD,Ligand Producing,823
+GPR55,GDE1,Ligand Producing,445
+CASR,TPH1,Ligand Producing,323
+CNR1,NAAA,Ligand Producing,640
+CNR1,NAPEPLD,Ligand Producing,934
+CNR1,GDE1,Ligand Producing,464
+CNR2,ABHD12,Ligand Producing,415
+CNR2,MGLL,Ligand Producing,733
+CNR2,ABHD6,Ligand Producing,536
+CNR2,NAAA,Ligand Producing,384
+CNR2,NAPEPLD,Ligand Producing,770
+S1PR1,SGPP1,Ligand Producing,422
+S1PR2,SGPP1,Ligand Producing,561
+S1PR3,SGPP1,Ligand Producing,584
+S1PR4,SGPP1,Ligand Producing,472
+S1PR5,SGPP1,Ligand Producing,525
+GPR17,ENPP3,Ligand Producing,160
+GPR17,ENPP1,Ligand Producing,187
+GPR17,UGT8,Ligand Producing,286
+GPR174,ABHD12,Ligand Producing,163
+GPR32,ALOX12,Ligand Producing,424
+GPR34,ABHD12,Ligand Producing,159
+MRGPRD,UPB1,Ligand Producing,190
+GPRC6A,ARG1,Ligand Producing,169
+CHRM1,BCHE,Ligand Producing,448
+CHRM1,ACHE,Ligand Producing,605
+CHRM1,CHAT,Ligand Producing,571
+CHRM2,BCHE,Ligand Producing,375
+CHRM2,ACHE,Ligand Producing,474
+CHRM2,CHAT,Ligand Producing,399
+CHRM3,BCHE,Ligand Producing,347
+CHRM3,ACHE,Ligand Producing,398
+CHRM3,CHAT,Ligand Producing,453
+CHRM4,BCHE,Ligand Producing,280
+CHRM4,ACHE,Ligand Producing,460
+CHRM4,CHAT,Ligand Producing,497
+CHRM5,BCHE,Ligand Producing,308
+CHRM5,ACHE,Ligand Producing,351
+CHRM5,CHAT,Ligand Producing,408
+DRD1,DDC,Ligand Producing,554
+DRD1,DBH,Ligand Producing,704
+DRD2,DBH,Ligand Producing,676
+DRD2,DDC,Ligand Producing,695
+DRD3,DBH,Ligand Producing,564
+DRD3,DDC,Ligand Producing,448
+DRD5,DDC,Ligand Producing,472
+DRD5,PON2,Ligand Producing,189
+DRD5,ARSG,Ligand Producing,167
+DRD5,DBH,Ligand Producing,763
+GPER1,DHRS11,Ligand Producing,317
+FPR2,ALOX12,Ligand Producing,390
+FFAR1,SLC27A2,Ligand Producing,152
+FFAR1,LPL,Ligand Producing,243
+FFAR1,PNLIP,Ligand Producing,268
+FFAR1,PNPLA2,Ligand Producing,219
+FFAR4,SLC27A2,Ligand Producing,209
+FFAR4,FASN,Ligand Producing,213
+FFAR4,PLA2G10,Ligand Producing,366
+FFAR4,LPL,Ligand Producing,276
+FFAR4,PLA2G2A,Ligand Producing,203
+FFAR4,PNLIP,Ligand Producing,231
+FFAR4,PNPLA2,Ligand Producing,294
+FFAR4,PLA2G3,Ligand Producing,161
+ADORA1,PNP,Ligand Producing,288
+ADORA1,ADA,Ligand Producing,915
+ADORA1,ACP3,Ligand Producing,369
+ADORA1,NT5E,Ligand Producing,805
+ADORA1,AHCY,Ligand Producing,309
+ADORA1,ADA2,Ligand Producing,724
+ADORA2A,PNP,Ligand Producing,167
+ADORA2A,ADA,Ligand Producing,719
+ADORA2A,NT5E,Ligand Producing,906
+ADORA2A,ADA2,Ligand Producing,173
+ADORA2B,PNP,Ligand Producing,263
+ADORA2B,ADA,Ligand Producing,898
+ADORA2B,ACP3,Ligand Producing,323
+ADORA2B,NT5E,Ligand Producing,900
+ADORA2B,AHCY,Ligand Producing,286
+ADORA2B,ADA2,Ligand Producing,733
+HRH1,AOC1,Ligand Producing,518
+HRH1,HNMT,Ligand Producing,600
+HRH3,AOC1,Ligand Producing,326
+HRH3,HNMT,Ligand Producing,602
+HRH4,AOC1,Ligand Producing,463
+HRH4,HNMT,Ligand Producing,484
+CYSLTR1,GGT1,Ligand Producing,910
+CYSLTR1,GGT5,Ligand Producing,177
+CYSLTR2,GGT1,Ligand Producing,912
+CYSLTR2,GGT5,Ligand Producing,189
+CYSLTR2,GGT6,Ligand Producing,213
+CYSLTR2,GGT7,Ligand Producing,256
+LTB4R,LTA4H,Ligand Producing,621
+LTB4R2,LTA4H,Ligand Producing,521
+ADRA1A,DBH,Ligand Producing,371
+ADRA1B,DBH,Ligand Producing,314
+ADRA1D,DBH,Ligand Producing,310
+ADRA2A,DBH,Ligand Producing,597
+ADRA2B,DBH,Ligand Producing,479
+ADRA2C,DBH,Ligand Producing,574
+ADRB1,DBH,Ligand Producing,441
+ADRB2,DBH,Ligand Producing,434
+ADRB3,DBH,Ligand Producing,398
+GRM1,GLUL,Ligand Producing,252
+GRM1,GAD2,Ligand Producing,620
+GRM1,GAD1,Ligand Producing,525
+GRM2,GLUL,Ligand Producing,327
+GRM2,GAD2,Ligand Producing,498
+GRM2,GAD1,Ligand Producing,544
+GRM3,GLUL,Ligand Producing,246
+GRM3,GAD2,Ligand Producing,439
+GRM3,GAD1,Ligand Producing,516
+GRM4,GLUL,Ligand Producing,167
+GRM4,GAD2,Ligand Producing,380
+GRM4,GAD1,Ligand Producing,393
+GRM4,PSPH,Ligand Producing,354
+GRM5,EPRS1,Ligand Producing,151
+GRM5,GLUL,Ligand Producing,325
+GRM5,GAD2,Ligand Producing,641
+GRM5,GAD1,Ligand Producing,565
+GRM6,GLUL,Ligand Producing,308
+GRM6,GAD2,Ligand Producing,283
+GRM6,GAD1,Ligand Producing,389
+GRM7,GLUL,Ligand Producing,169
+GRM7,GAD2,Ligand Producing,304
+GRM7,GAD1,Ligand Producing,336
+GRM8,GLUL,Ligand Producing,262
+GRM8,GAD2,Ligand Producing,324
+GRM8,TTLL5,Ligand Producing,203
+GRM8,GAD1,Ligand Producing,313
+HCAR1,LDHA,Ligand Producing,335
+HCAR1,LDHB,Ligand Producing,282
+P2RY1,ATP12A,Ligand Producing,179
+P2RY1,ENPP3,Ligand Producing,311
+P2RY1,ENTPD3,Ligand Producing,550
+P2RY1,EPRS1,Ligand Producing,426
+P2RY1,ENPP1,Ligand Producing,358
+P2RY1,ENTPD1,Ligand Producing,648
+P2RY1,ENTPD8,Ligand Producing,543
+P2RY12,ENTPD6,Ligand Producing,226
+P2RY12,ENTPD5,Ligand Producing,220
+P2RY12,TGFBR2,Ligand Producing,183
+P2RY12,ATP12A,Ligand Producing,607
+P2RY12,ENPP4,Ligand Producing,159
+P2RY13,ENTPD6,Ligand Producing,286
+P2RY13,ENTPD5,Ligand Producing,272
+P2RY13,HSPA5,Ligand Producing,177
+P2RY13,ENPP3,Ligand Producing,391
+P2RY13,ENTPD3,Ligand Producing,502
+P2RY13,ENPP1,Ligand Producing,641
+P2RY13,ENTPD1,Ligand Producing,561
+P2RY13,ENTPD8,Ligand Producing,468
+P2RY13,ACSL6,Ligand Producing,260
+P2RY14,B4GALT3,Ligand Producing,179
+P2RY14,ENTPD6,Ligand Producing,241
+P2RY14,ENTPD5,Ligand Producing,171
+P2RY2,ENPP3,Ligand Producing,389
+P2RY2,ENTPD3,Ligand Producing,513
+P2RY2,EPRS1,Ligand Producing,173
+P2RY2,ENPP1,Ligand Producing,464
+P2RY2,ENTPD1,Ligand Producing,660
+P2RY2,ENTPD8,Ligand Producing,570
+P2RY4,ENPP3,Ligand Producing,312
+P2RY4,ENTPD3,Ligand Producing,417
+P2RY4,ENPP1,Ligand Producing,339
+P2RY4,ENTPD1,Ligand Producing,521
+P2RY4,ATP13A4,Ligand Producing,158
+P2RY4,ENTPD8,Ligand Producing,472
+P2RY6,ENTPD6,Ligand Producing,209
+PTAFR,PAFAH1B2,Ligand Producing,241
+PTAFR,PLA2G7,Ligand Producing,606
+PTAFR,LPCAT2,Ligand Producing,374
+PTAFR,LPCAT1,Ligand Producing,288
+PTGDR,PTGDS,Ligand Producing,656
+PTGDR,AKR1C3,Ligand Producing,229
+PTGDR,HPGD,Ligand Producing,236
+PTGDR2,PTGDS,Ligand Producing,594
+PTGDR2,AKR1C3,Ligand Producing,206
+PTGDR2,HPGD,Ligand Producing,181
+PTGDR2,PTGES2,Ligand Producing,294
+PTGER1,CBR1,Ligand Producing,221
+PTGER1,PTGDS,Ligand Producing,446
+PTGER1,AKR1C3,Ligand Producing,367
+PTGER1,HPGD,Ligand Producing,519
+PTGER1,PTGES2,Ligand Producing,611
+PTGER1,AKR1B1,Ligand Producing,181
+PTGER1,PTGIS,Ligand Producing,459
+PTGER2,CBR1,Ligand Producing,303
+PTGER2,PTGDS,Ligand Producing,380
+PTGER2,AKR1C3,Ligand Producing,335
+PTGER2,HPGD,Ligand Producing,500
+PTGER2,PTGES2,Ligand Producing,489
+PTGER2,AKR1B1,Ligand Producing,177
+PTGER3,HPGD,Ligand Producing,517
+PTGER3,CBR1,Ligand Producing,223
+PTGER3,MGLL,Ligand Producing,232
+PTGER3,PTGES2,Ligand Producing,659
+PTGER3,AKR1B1,Ligand Producing,161
+PTGER3,AKR1C3,Ligand Producing,374
+PTGER4,CBR1,Ligand Producing,210
+PTGER4,PTGDS,Ligand Producing,390
+PTGER4,AKR1C3,Ligand Producing,392
+PTGER4,MGLL,Ligand Producing,158
+PTGER4,HPGD,Ligand Producing,649
+PTGER4,PTGES2,Ligand Producing,683
+PTGER4,AKR1B1,Ligand Producing,154
+PTGER4,PTGIS,Ligand Producing,480
+PTGFR,CBR1,Ligand Producing,276
+PTGFR,PTGDS,Ligand Producing,583
+PTGFR,AKR1C3,Ligand Producing,529
+PTGFR,HPGD,Ligand Producing,455
+PTGFR,PTGES2,Ligand Producing,509
+PTGFR,AKR1B1,Ligand Producing,242
+PTGIR,PTGIS,Ligand Producing,725
+TBXA2R,HPGD,Ligand Producing,258
+TBXA2R,PTGES2,Ligand Producing,173
+AGTR1,ACE2,Ligand Producing,868
+AGTR2,ACE2,Ligand Producing,879
+TAAR1,AOC2,Ligand Producing,309
+GPBAR1,SLC27A5,Ligand Producing,263
+HTR1A,TPH2,Rate-limiting/bottleneck,814
+HTR1B,TPH2,Rate-limiting/bottleneck,662
+HTR1D,TPH2,Rate-limiting/bottleneck,516
+HTR1F,TPH2,Rate-limiting/bottleneck,262
+HTR2A,TPH2,Rate-limiting/bottleneck,660
+HTR2B,TPH2,Rate-limiting/bottleneck,394
+HTR2C,TPH2,Rate-limiting/bottleneck,666
+HTR5A,TPH2,Rate-limiting/bottleneck,225
+HTR7,TPH2,Rate-limiting/bottleneck,511
+GPR55,PTGS2,Rate-limiting/bottleneck,415
+CNR1,PTGS2,Rate-limiting/bottleneck,658
+CNR2,PTGS2,Rate-limiting/bottleneck,353
+DRD1,TPH2,Rate-limiting/bottleneck,428
+DRD1,TH,Rate-limiting/bottleneck,777
+DRD2,TH,Rate-limiting/bottleneck,858
+DRD3,TH,Rate-limiting/bottleneck,569
+DRD5,TPH2,Rate-limiting/bottleneck,396
+DRD5,TH,Rate-limiting/bottleneck,651
+FFAR1,LPL,Rate-limiting/bottleneck,243
+FFAR4,LPL,Rate-limiting/bottleneck,276
+ADRA1A,TH,Rate-limiting/bottleneck,304
+ADRA1B,TH,Rate-limiting/bottleneck,366
+ADRA1D,TH,Rate-limiting/bottleneck,277
+ADRA2A,TH,Rate-limiting/bottleneck,363
+ADRA2B,TH,Rate-limiting/bottleneck,197
+ADRA2C,TH,Rate-limiting/bottleneck,266
+ADRB1,TH,Rate-limiting/bottleneck,404
+ADRB2,TH,Rate-limiting/bottleneck,459
+ADRB3,TH,Rate-limiting/bottleneck,459
+P2RY1,PTGS2,Rate-limiting/bottleneck,193
+P2RY12,PTGS2,Rate-limiting/bottleneck,260
+P2RY2,PTGS2,Rate-limiting/bottleneck,215
+PTGDR,PTGS2,Rate-limiting/bottleneck,295
+PTGDR2,PTGS2,Rate-limiting/bottleneck,231
+PTGER1,PTGS2,Rate-limiting/bottleneck,868
+PTGER2,PTGS2,Rate-limiting/bottleneck,678
+PTGER3,PTGS2,Rate-limiting/bottleneck,714
+PTGER4,PTGS2,Rate-limiting/bottleneck,824
+PTGFR,PTGS2,Rate-limiting/bottleneck,536
+PTGIR,PTGS2,Rate-limiting/bottleneck,488
+TBXA2R,PTGS2,Rate-limiting/bottleneck,426
+HTR4,TPH2,Rate-limiting/bottleneck,155
+HTR6,TPH2,Rate-limiting/bottleneck,218
+GPR35,IDO1,Rate-limiting/bottleneck,438
+FFAR1,SCD,Rate-limiting/bottleneck,150
+FFAR3,PTGS2,Rate-limiting/bottleneck,263
+FFAR4,SCD,Rate-limiting/bottleneck,305
+LTB4R2,PTGS2,Rate-limiting/bottleneck,252
+HCAR2,PTGS2,Rate-limiting/bottleneck,296
