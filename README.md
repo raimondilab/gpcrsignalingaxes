@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8349772.svg)](https://doi.org/10.5281/zenodo.8349772)
+
 # GPCR Ligand Signaling Dysregulation in Cancer Transcriptomics
 
 Welcome to the repository for the manuscript titled ["Exploring Dysregulation of GPCR Ligand Signaling Systems in Cancer Transcriptomics."](https://gpcrcanceraxes.bioinfolab.sns.it/) This repository houses the data, code, and resources used in the study to investigate potential therapeutic opportunities in oncology through the analysis of G Protein-Coupled Receptor (GPCR) ligand signaling dysregulation in cancer transcriptomics datasets.
